@@ -23,11 +23,11 @@ urllib3[secure]==1.26.9
 yamale==4.0.4
 markdown==3.3.6
 ruamel.yaml==0.17.21
-lxml==4.8.0
+lxml==4.9.1
 # For emoji
 sphinxemoji==0.2.0
 # For atom feed support
-Werkzeug==0.16.1 # pyup: <1.0
+Werkzeug==3.0.3 # pyup: <1.0
 # For fancy 404 pages
 sphinx-notfound-page==0.8
 # For fancy twitter previews
