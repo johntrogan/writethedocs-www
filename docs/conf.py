@@ -71,7 +71,6 @@ exclude_patterns = [
     'include',
     #'_data',
     'node_modules',
-    'videos/**',
 ]
 
 # We use these *local* environment variables for private info like free ticket links
