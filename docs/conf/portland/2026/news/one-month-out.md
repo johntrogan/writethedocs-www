@@ -11,7 +11,7 @@ banner: _static/conf/images/headers/2026/registration.jpg
 
 # One Month Until Write the Docs Portland
 
-Write the Docs Portland is officially just under one month away on May 3-5! Whether you're a programmer, tech writer, designer, project manager, or developer advocate, we have talks and a community for you at Write the Docs Portland.
+Write the Docs Portland 2026 is just under one month away on May 3-5! Whether you're a programmer, tech writer, designer, project manager, or developer advocate, we have talks and a community for you.
 
 ## New in 2026
 
