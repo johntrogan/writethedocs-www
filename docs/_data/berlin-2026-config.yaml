@@ -172,6 +172,9 @@ sponsors:
   patron:
   publisher:
   second:
+    - name: readthedocs
+      link: https://about.readthedocs.com/?ref=writethedocs
+      brand: Read the Docs
   first:
   in_kind:
 
