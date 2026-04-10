@@ -214,7 +214,7 @@ Home - Write the Docs {{ name }} {{ year }}
     {% endif %}
 
 
-    {% if flaghasjobfair %}
+    {% if flaghassponsorexpo %}
 
     <div class="schedule-item uk-width-1-{{ 1 + date.total_talk_days }}@s">
       <img style="height: 150px;" src="{{ pathto('_static/conf/images/icons/sponsor-expo' + '-' + color +  '.svg', 1) }}"" alt="" >
@@ -225,7 +225,7 @@ Home - Write the Docs {{ name }} {{ year }}
 
     {% endif %}
 
-      {% if flagshasschedule %}
+      {% if flaghasschedule %}
 
       <div class="learn-more">
         <a class="uk-align-right" href="{{ pathto('conf/' + shortcode + '/' + year_str + '/schedule') }}">See the full schedule</a>
