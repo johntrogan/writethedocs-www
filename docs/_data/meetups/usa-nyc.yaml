@@ -2,7 +2,8 @@ region: North America
 country: USA
 state: New York
 city: New York City
-meetup: NYC Write the Docs
+website: https://www.meetup.com/writethedocsnyc
+meetup: writethedocsnyc
 organizers:
   - name: Lois Patterson
     link: https://www.linkedin.com/in/loispatterson
