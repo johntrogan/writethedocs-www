@@ -22,6 +22,8 @@ and make sure you know your way around the conference venue.
 
 *Both alcoholic and non-alcoholic drinks and snacks will be provided.*
 
+*The Sunday Reception is sponsored by [Mintlify](https://mintlify.com/?utm_source=writethedocs&utm_medium=referral).*
+
 ## Monday Night Social
 
 Join us for our Monday night social event! This is a great chance to meet more of your fellow documentarians 
