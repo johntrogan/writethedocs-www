@@ -20,15 +20,20 @@ Everyone!
 
 **Date: {{ unconf.date }}**
 
-- Morning and afternoon sessions
 - Each session is 35 minutes in length
+- Sessions will be scheduled in 4-6 time slots, with multiple sessions happening at the same time
+- Hosted in {{ about.unconfroom }}
+
+See the [Schedule](/conf/{{shortcode}}/{{year}}/schedule) page for exact times.
 
 ## Sponsor Sessions in Martha's
 
-Each morning from 10:00 AM to 12:00 PM, Martha's will host a sponsor-led session alongside the rest of the unconference. Stop by for free drinks and discussion:
+Stop by Martha's each morning from 10:00 AM to 12:00 PM for **free handcrafted espresso on Monday ☕** and **free handcrafted matcha on Tuesday 🍵**, plus sponsor-led discussions.
 
 - **Monday ☕ — free espresso:** Sponsor Session hosted by **[Promptless](https://promptless.ai/?ref=writethedocs)**
 - **Tuesday 🍵 — free matcha:** Sponsor Session hosted by **[Mintlify](https://mintlify.com/?utm_source=writethedocs&utm_medium=referral)**
+
+Martha's will be open to attendee sessions in the afternoon, along with the 
 
 ### Scheduling a Session
 
