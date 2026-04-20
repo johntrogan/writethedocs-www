@@ -8,8 +8,6 @@ banner: _static/conf/images/headers/2026/unconference.jpg
 
 The Unconference consists of attendee-driven sessions that provide the opportunity for anyone who is attending the conference to lead, contribute, share ideas, and discuss problems in an organized setting away from the main stage talks. Many attendees consider this one of their favorite aspects of the conference.
 
-The Unconference is sponsored by **[Promptless](https://promptless.ai/?ref=writethedocs)** on Monday and **[Mintlify](https://mintlify.com/?utm_source=writethedocs&utm_medium=referral)** on Tuesday. Stop by Martha's each morning from 10:00 AM to 12:00 PM for **free handcrafted espresso on Monday ☕** and **free handcrafted matcha on Tuesday 🍵**, plus sponsor-led discussions.
-
 **Who can lead an Unconference session?**
 
 Everyone! All attendees are invited to lead a session on a topic. Sessions can be organized around a presentation, group discussion or anything in between.
