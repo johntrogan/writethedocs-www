@@ -27,11 +27,10 @@ Everyone!
 
 ## Sponsor Sessions in Martha's
 
-Each morning from 10:00 AM to 12:00 PM, Martha's hosts a sponsor-led session alongside the rest of the unconference. Stop by for free handcrafted drinks and discussion:
+Each morning from 10:00 AM to 12:00 PM, Martha's will host a sponsor-led session alongside the rest of the unconference. Stop by for free drinks and discussion:
 
 - **Monday ☕ — free espresso:** Sponsor Session hosted by **[Promptless](https://promptless.ai/?ref=writethedocs)**
 - **Tuesday 🍵 — free matcha:** Sponsor Session hosted by **[Mintlify](https://mintlify.com/?utm_source=writethedocs&utm_medium=referral)**
-
 
 ### Scheduling a Session
 
