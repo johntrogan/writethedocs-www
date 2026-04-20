@@ -23,7 +23,15 @@ Everyone!
 **Date: {{ unconf.date }}**
 
 - Morning and afternoon sessions
-- Each session is 40 minutes in length
+- Each session is 35 minutes in length
+
+## Sponsor Sessions in Martha's
+
+Each morning from 10:00 AM to 12:00 PM, Martha's hosts a sponsor-led session alongside the rest of the unconference. Stop by for free handcrafted drinks and discussion:
+
+- **Monday ☕ — free espresso:** Sponsor Session hosted by **[Promptless](https://promptless.ai/?ref=writethedocs)**
+- **Tuesday 🍵 — free matcha:** Sponsor Session hosted by **[Mintlify](https://mintlify.com/?utm_source=writethedocs&utm_medium=referral)**
+
 
 ### Scheduling a Session
 
@@ -65,13 +73,6 @@ These ideas were borrowed from Scott Berkun. Read more of his [post on Unconfere
 - Find the table and have a seat. You can also join mid-session!
 - Listen or contribute to the discussion.
 - You're welcome to change sessions mid-slot! Please make sure you leave politely.
-
-## Sponsor Sessions in Martha's
-
-Each morning from 10:00 AM to 12:00 PM, Martha's hosts a sponsor-led session alongside the rest of the unconference. Stop by for free handcrafted drinks and discussion:
-
-- **Monday ☕ — free espresso:** Sponsor Session hosted by **[Promptless](https://promptless.ai/?ref=writethedocs)**
-- **Tuesday 🍵 — free matcha:** Sponsor Session hosted by **[Mintlify](https://mintlify.com/?utm_source=writethedocs&utm_medium=referral)**
 
 **Enjoy the Unconference!**
 
