@@ -118,9 +118,47 @@ Writing Day is the perfect opportunity to participate and learn about new projec
 
 ## Project List
 
-If you are planning to contribute, review the project list before the conference.
+If you are planning to contribute, review the project list before the conference. We're still adding projects as they're submitted, so check back here as the conference draws closer.
+
+### Docs as Tests and Doc Detective: Let's Get Your Docs Tested!
+
+* Project organizer: Manny Silva, he/him
+* Project session: All day
+
+[Docs as Tests](https://www.docsastests.com/) and [Doc Detective](https://doc-detective.com/) are back at Writing Day with new ways to get you started testing easier than ever, like AI test bootstrapping and integrations to help fix your docs.
+
+Does your project or product have a UI? APIs? SDKs? We can help you test them and keep your docs accurate.
+
+Docs as Tests is a strategy for keeping docs up-to-date by treating procedures and code snippets as testable claims of product behavior. You have the docs, so let's get testing!
+
+By validating that documentation contents work as written, you can:
+
+- Prevent broken docs
+- Ensure consistent UX between docs and products   
+- Build user trust
+
+We want every writer to be confident in their docs. Come by our table, and we'll help you set up Docs as Tests with whatever tools (like Doc Detective) or strategies (like unit testing code snippets) are appropriate.
+
+Establish a zero-trust relationship between your docs and product, catching bugs in both as you go.
+
+### Can AI Find Your Docs? A Community Audit and Pattern Catalog
+
+* Project organizer: Rakesh Pasupuleti, he/him
+* Project session: All day
+
+AI tools--ChatGPT, Perplexity, Gemini, Copilot--are increasingly the first place developers go when they have a question. Before they ever open a search engine or click into your documentation site, they ask an AI. And that AI may or may not know your docs exist.
+
+Most of us have spent real effort writing good documentation. But very few of us have ever asked: can an AI actually find it, read it, and use it to give accurate answers? That's what this project is about.
+
+I've been building an open documentation auditing tool as a side project--one that checks doc sites across four dimensions: whether AI bots can access the content, whether the site is structured for discoverability, whether the content is consumable by a language model, and whether structured data signals are in place. During Writing Day, I want to point it at as many real documentation sites as possible--including yours.
+
+Here's what we'll do: bring your docs site URL, run an AI readiness audit, and review the results together. What patterns show up? What's easy to fix? What surprises us? You'll walk away with a personalized readiness report for your site, a concrete artifact you can take back to your team.
+
+If you want to go deeper into what happens *after* AI finds your docs--whether the content itself is accurate, fresh, and complete--I'll be covering that in my [Tuesday talk](https://www.writethedocs.org/conf/portland/2026/speakers/#speaker-rakesh-pasupuleti-what-i-learned-building-an-ai-documentation-auditor-and-what-it-found-in-500-p-rakesh-pasupuleti).
 
 ### Examples of projects you might see at the conference
+
+We always accept day-of project submissions, too, so you may see projects like any of these:
 
 - Open-source software documentation
 - General documentation writing
@@ -133,10 +171,6 @@ If you are planning to contribute, review the project list before the conference
 - The Documentarian Manifesto
 
 Find specific examples on the [Portland Writing Day {{year-1}} project list](https://www.writethedocs.org/conf/portland/{{year-1}}/writing-day/#project-list).
-
-## Project list
-
-Incoming project information, check back here for updates closer to the conference.
 
 ## Contact us
 
