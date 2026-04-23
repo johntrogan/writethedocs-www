@@ -80,15 +80,15 @@ Sponsor booths are set up in the main hallway on {{ date.day_three.dotw }} and {
 
 #### What Write the Docs Provides
 
-- 6-foot table with 2 chairs
-- Power and wifi access
-- Monitor rental available for an additional fee
+- **Keystone:** 8-foot table with 2 chairs, monitor, power and wifi access
+- **Patron:** 6-foot table with 2 chairs, power and wifi access
+- Monitor rental available for Patron sponsors for an additional fee
 
 #### What the Sponsor Provides
 
 - Table linen
 - Laptop, tablets, or monitor to display your product
-- Banner (must fit behind a 6' table)
+- Banner (must fit behind your table)
 - Swag for attendees (stickers are the most popular item)
 
 #### Booth Logistics
