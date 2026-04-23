@@ -156,6 +156,31 @@ Here's what we'll do: bring your docs site URL, run an AI readiness audit, and r
 
 If you want to go deeper into what happens *after* AI finds your docs--whether the content itself is accurate, fresh, and complete--I'll be covering that in my [Tuesday talk](https://www.writethedocs.org/conf/portland/2026/speakers/#speaker-rakesh-pasupuleti-what-i-learned-building-an-ai-documentation-auditor-and-what-it-found-in-500-p-rakesh-pasupuleti).
 
+### Open-source documentation observability: Measure less, learn more
+
+* Project organizer: Mano Toth, he/him
+* Project session: All day
+
+[Do11y](https://github.com/axiomhq/do11y) is an open-source documentation observability solution. Unlike traditional analytics tools, which borrow their data model from marketing funnels and optimize for engagement, Do11y aims to answer the question: Do my docs actually work? Do they get people from confusion to competence as quickly as possible?
+
+Do11y collects less data than most analytics tools. It captures behavioral signals (section visibility, code copies, search opens, tab switches) without cookies, PII, or fingerprinting. What it collects is designed to help you answer specific questions about the effectiveness of your documentation that you couldn't answer with conventional marketing-focused analytics.
+
+Join this project to set up Do11y on your own docs site, create a free Axiom account to store your data, run it for the session, and share what you find: write a useful query, a docs improvement, or a post about what the data revealed.
+
+### Docs Site Constructive Review (Sponsor session)
+
+* Project organizer: Sarah Dugan, she/her
+* Project session: Morning
+
+Most documentation teams know their docs could be better, but it's hard to know where to start. This is a working session where attendees review their own docs site using a structured worksheet inspired by the [State of Docs report](https://www.stateofdocs.com/2026). Each person works through the same criteria: structure, discoverability, AI-readiness, and how well their docs stay in sync with the product. Everyone leaves with a concrete, prioritized list of quick wins and inspiration from the group.
+
+### Audit Your Docs Metrics (Sponsor session)
+
+* Project organizer: Sarah Dugan, she/her
+* Project session: Afternoon
+
+The [State of Docs report](https://www.stateofdocs.com/2026) found that most teams think their docs are valuable but struggle to show it. This is a working session around what metrics actually matter and how to start tracking them. Each person maps what they're currently measuring, what tools they're using, and where the gaps are. Everyone leaves with one concrete next step they can act on that week.
+
 ### Examples of projects you might see at the conference
 
 We always accept day-of project submissions, too, so you may see projects like any of these:
