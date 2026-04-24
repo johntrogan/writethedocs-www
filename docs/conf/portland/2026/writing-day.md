@@ -181,6 +181,17 @@ Most documentation teams know their docs could be better, but it's hard to know 
 
 The [State of Docs report](https://www.stateofdocs.com/2026) found that most teams think their docs are valuable but struggle to show it. This is a working session around what metrics actually matter and how to start tracking them. Each person maps what they're currently measuring, what tools they're using, and where the gaps are. Everyone leaves with one concrete next step they can act on that week.
 
+### Docs as Code: starting from scratch
+
+* Project organizer: Mike Jang, he/him
+* Project session: Afternoon
+
+Anyone who's starting a Docs as Code practice needs a place to start. But with the 400+ open source options, where do you start? Mike Jang will share his experience implementing [docsy.dev](http://docsy.dev/) as the first writer at a startup, using "live" demos.
+
+If you're searching for a writing job, this is something you can add to your portfolio. With these skills, you can tell a software founder (or anyone who wants to move to "Docs as Code") that you're the person for the job.
+
+Attendees should have some familiarity with command line tools as described in the [Docsy README file](https://github.com/google/docsy).
+
 ### Examples of projects you might see at the conference
 
 We always accept day-of project submissions, too, so you may see projects like any of these:
