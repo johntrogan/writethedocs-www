@@ -39,8 +39,8 @@ buttons:
   bottom:
     # - text: Welcome to our conference
     #   link: /news/welcome
-    - text: Sponsor us
-      link: /sponsors/prospectus
+    # - text: Sponsor us
+    #   link: /sponsors/prospectus
     # - text: Submit a Talk
     #   link: /cfp
     - text: Buy a Ticket!
@@ -49,8 +49,8 @@ buttons:
     #   link: /schedule
     # - text: See the Talks
     #   link: /speakers
-    # - text: Read the Guide
-    #   link: /attendee-guide
+    - text: Read the Guide
+      link: /attendee-guide
     # - text: Watch the Live Stream
     #   link: /livestream
     # - text: Browse the photos
