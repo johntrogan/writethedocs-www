@@ -176,7 +176,7 @@ Most documentation teams know their docs could be better, but it's hard to know 
 
 ### Using and documenting Syllago: FOSS to help you manage and share AI agent skills, rules, MCP configurations, and more!
 
-* Holden Hewett, he/him
+* Project organizer: Holden Hewett, he/him
 * Project session: Morning
 
 [Syllago](https://syllago.dev) is a content manager for AI coding tools. It converts content between providers, bundles rules, skills, agents, hooks, and MCP configs into shareable loadouts and installs them in the correct location for each agent (Cursor, Windsurf, Claude Code, Gemini CLI, Amp, Codex, and more). If you manage your company's AI content, such as skills and rules, Syllago can help you centrally manage and share them across your entire company. This eliminates the headache of manually translating the different formats between AI agents or harnesses.
