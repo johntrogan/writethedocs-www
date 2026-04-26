@@ -195,7 +195,7 @@ The [State of Docs report](https://www.stateofdocs.com/2026) found that most tea
 * Project organizer: Mike Jang, he/him
 * Project session: Afternoon
 
-Anyone who's starting a Docs as Code practice needs a place to start. But with the 400+ open source options, where do you start? Mike Jang will share his experience implementing [docsy.dev](http://docsy.dev/) as the first writer at a startup, using "live" demos.
+Anyone beginning a Docs as Code practice needs a place to start. With over 400+ open source options, figuring out where to begin can be overwhelming. This project is here to help! Join Mike Jang as he shares his experience implementing [docsy.dev](http://docsy.dev/) as the first writer at a startup, complete with "live" demos.
 
 If you're searching for a writing job, this is something you can add to your portfolio. With these skills, you can tell a software founder (or anyone who wants to move to "Docs as Code") that you're the person for the job.
 
