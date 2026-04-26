@@ -26,6 +26,11 @@ Everyone!
 
 See the [Schedule](/conf/{{shortcode}}/{{year}}/schedule) page for exact times.
 
+{% if unconf.url %}
+```{button-link} {{ unconf.url }}
+Sign up to Lead a Monday Unconference
+```
+{% endif %}
 *The Unconference is sponsored by [ReadMe](https://readme.com/?ref=writethedocs).*
 
 ## Sponsor Sessions in Martha's
@@ -43,8 +48,6 @@ Martha's will be open to attendee sessions in the afternoon, along with the Libr
 - Sign up for all sessions in-person anytime during the conference, Sunday through Tuesday.
 - During the conference, write the title and your name on a sticky note. Select a time slot and table number and place the note on the large schedule.
 - The [online schedule]({{ unconf.url }}) will be updated regularly during the conference.
-
-Exact times to be posted on our [Schedule](/conf/{{shortcode}}/{{year}}/schedule) page.
 
 ## Leading a Session
 
