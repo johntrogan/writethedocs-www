@@ -118,4 +118,4 @@ Thanks to our sponsors for supporting the conference this year. A number of them
    :template: {{year}}/sponsors-simplelist.rst
 ```
 
-See you soon!
+We're excited to see everyone in {{ city }} again this year!
