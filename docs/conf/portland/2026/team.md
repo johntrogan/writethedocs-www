@@ -122,6 +122,14 @@ Ryan splits his cerebral time between being tech writing, UXing, coding, and occ
 
 Heather is a Philadelphia-based writer with a rich background in computer science and technical communication. By day, she programs, builds tools for engineers, and crafts clear, user-friendly documentation. By night, she trades keystrokes for knitting needles, cross-stitch, and other forms of needle witchcraft.
 
+### Ravind Kumar (he/him)
+
+#### Virtual Coordinator
+
+![](/_static/img/speakers/ravind-kumar.jpg)
+
+Ravind likes to tinker with things, and as a technical writer extends that to acting as a generalist in exploring the full infrastructure stack in pursuit of building documentation. His view on technical writing is you can't write about what you don't understand, and the path to understanding is in trying the thing. His primary hobbies are film photography and homebrewing, both resulting in an excess of chemicals and fermented things bubbling in his office closet.
+
 ### Alicia Lewis (she/her)
 
 #### Welcome Wagon Coordinator
