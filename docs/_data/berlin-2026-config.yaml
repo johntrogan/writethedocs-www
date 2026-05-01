@@ -190,11 +190,18 @@ sponsors:
     - name: gitbook
       link: https://www.gitbook.com/?ref=writethedocs
       brand: GitBook
+    - name: fern
+      brand: Fern
+      link: https://buildwithfern.com/?ref=writethedocs
   publisher:
   second:
     - name: readthedocs
       link: https://about.readthedocs.com/?ref=writethedocs
       brand: Read the Docs
+    - name: knowledgeowl
+      brand: KnowledgeOwl
+      link: https://www.knowledgeowl.com?ref=writethedocs
+      width: 250px
   first:
   in_kind:
     - name: readthedocs
