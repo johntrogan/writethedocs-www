@@ -181,6 +181,19 @@ Do11y collects less data than most analytics tools. It captures behavioral signa
 
 Join this project to set up Do11y on your own docs site, create a free Axiom account to store your data, run it for the session, and share what you find: write a useful query, a docs improvement, or a post about what the data revealed.
 
+### Ship Your First (or Next) Open Source Docs PR (Sponsor session)
+
+* Project organizer: Isaiah, he/him
+* Project session: All day
+
+"Want to leave Portland with a real contribution to a big name open-source project? Come work through pre-vetted documentation issues from projects that actually need the help. I've coordinated in advance with maintainers from Mautic, Vitess, and Helm (with more pending) to label ""good first issue"" docs tasks: information architecture, confusing instructions, fuzzy contributor guides, missing pages.
+
+I started contributing to open-source 15 years ago and I now run a 19k star project in my free time, but at the beginning, it felt intimidating contributing to a project where I expected everyone would be far more experienced and knowledgeable than me. So even if it'll be your first OSS PR, you'll have someone there to explain things, answer questions, and unblock you if a repo gets weird.
+
+To get the most out of the session, you should already roughly know what a pull request is, have encountered docs-as-code before. Our table can help with getting a documentation site running locally so you can preview your changes. If you are totally new to GitHub, no fear! Go to a New to Git and GitHub session and then join us after.
+
+Bring a laptop, pick an issue, ship a PR.
+
 ### Docs Site Constructive Review (Sponsor session)
 
 * Project organizer: Sarah Dugan, she/her
@@ -198,6 +211,17 @@ Most documentation teams know their docs could be better, but it's hard to know 
 This session is a hands-on playground for both the tool and its docs. Bring a laptop and an AI coding agent (or two, or five) you already use, and help stress-test Syllago's CLI and TUI in the wild: migrate your Claude Code setup to Gemini CLI, port a Cursor rule set to Windsurf, try the cross-provider conversion paths, and see where things break. On the docs side, you'll help identify gaps in the documentation site, tackle open issues, and explore a question I'm actively working on--how much of a CLI/TUI's docs can be auto-generated from the real codebase, and what's still worth writing by hand? You'll leave with practical exposure to how different agent runtimes and harnesses actually differ under the hood, experience contributing to an open-source project with AI in the loop, and (hopefully) a cleaner docs site for everyone who shows up after you.
 
 **Assistant opportunities**: Holden's looking for one or two assistants. If you've used an AI coding agent (Cursor, Claude Code, Gemini CLI, Windsurf, Codex, Amp, or similar) and are comfortable helping others get a CLI tool running, answering questions about agent-specific quirks, or reviewing docs as people work through them, Holden would love your help. No Syllago experience needed. If you know your way around any of these agents, you're qualified. Reach out to him directly in Write the Docs Slack at @Holden Hewett or show up at Writing Day and tell him you'd like to help!
+
+### Improve how AI sees your docs: Putting the Agent-Friendly Doc Spec (AFDocs) into practice (Sponsor session)
+
+* Project organizer: Frances Liu, she/her
+* Project session: Morning
+
+AI agents are reading your docs now. They’re providing support for your users, helping your customers build with your product, and even making buying decisions. But agents “browse” your docs very differently from humans—they can’t see your sidebar, don’t execute Javascript, and truncate content aggressively.
+
+AFDocs (Agent-Friendly Docs) is an open-source standard that measures how accessible your docs are to AI. It gives you a scorecard with improvement recommendations, and there’s even [a leaderboard](https://buildwithfern.com/agent-score). For our own docs, we went from scoring in the 70s to scoring a perfect 100 with a little care and effort, and there are always some quick wins available to make your docs more accessible to agents!
+
+In this session, we’ll hear an intro from Dachary Carey (who maintains AFDocs), run AFDocs on your own docs site to see how your docs score, learn about the different types of issues that AFDocs surfaces (23 checks across 7 categories), and fix them in your own docs and watch your score go up!
 
 ### Audit Your Docs Metrics (Sponsor session)
 
