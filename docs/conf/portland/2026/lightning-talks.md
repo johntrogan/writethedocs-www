@@ -15,7 +15,7 @@ Lightning Talks are a fantastic opportunity for first-time speakers. Regardless 
 - First-time speakers
 - Experienced speakers
 
-Our goal is to have a balance between first-time and experienced speakers. 
+Our goal is to have a balance between first-time and experienced speakers.
 
 ## Schedule
 
@@ -23,20 +23,25 @@ Our goal is to have a balance between first-time and experienced speakers.
 
 See the [Schedule](/conf/{{shortcode}}/{{year}}/schedule) page for exact times.
 
-{% if lightning_talks.signup_url %}
-```{button-link} {{ lightning_talks.signup_url }}
-Submit your Monday Lightning Talk
-```
-{% endif %}
+### Sponsors
 
-*The Monday Lightning Talks are sponsored by [Expert Support](https://expertsupport.com/?ref=writethedocs), and the Tuesday Lightning Talks are sponsored by [KnowledgeOwl](https://www.knowledgeowl.com?ref=writethedocs).*
+- Monday Lightning Talks are sponsored by [Expert Support](https://expertsupport.com/?ref=writethedocs)
+- Tuesday Lightning Talks are sponsored by [KnowledgeOwl](https://www.knowledgeowl.com?ref=writethedocs)
 
-### Submitting a Talk
+### Submit a Talk
 
-Submissions are open:
+Submissions open:
 
 - One week prior to the conference (Monday submissions only)
 - During the conference from Sunday to Tuesday morning, until the end of the last morning break
+
+{% if lightning_talks.signup_url %}
+```{button-link} {{ lightning_talks.signup_url }}
+Submit a Lightning Talk
+```
+{% endif %}
+
+**Note**: We can only accept Lightning Talk submissions from in-person attendees.
 
 **Speaker selection and announcements:**
 
@@ -121,6 +126,7 @@ This may be something you do once, or maybe it will spark a love for presenting 
 Enjoy your five minutes; you are going to do great! :)
 
 ## Create Opportunities for Follow Up
+
 Lightning Talks can create wonderful opportunities such as hallway conversations, Unconference sessions, and sometimes, future presentations.
 
 - Consider using the final moments of your presentation to let the audience know how to follow up with you.
@@ -130,6 +136,7 @@ Lightning Talks can create wonderful opportunities such as hallway conversations
 - Be available to speak afterwards in the hallway (optional).
 
 ## Acknowledgements
+
 Special thanks to the Portland Python Users Group for use of this content.
 
 Lightning Talks: A Guide for Beginners by Michelle Rowley of PDX Python is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
